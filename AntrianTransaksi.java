@@ -1,6 +1,5 @@
 package tokokelontong;
 
-
 public class AntrianTransaksi {
     private Transaksi[] elemen;
     private int front;
